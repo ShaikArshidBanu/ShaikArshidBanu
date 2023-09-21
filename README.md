@@ -1,6 +1,6 @@
-![MasterHead](https://www.internetcreation.net/wp-content/uploads/2015/04/banner-web-development.png)
+![MasterHead](https://img.freepik.com/premium-vector/machine-learning-banner-web-icon-set-data-mining-algorithm-neural-network_35632-107.jpg?w=2000)
 <h1 align="center">Hi 👋, I'm Shaik Arshid Banu</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Machine Learning Enthusiast and frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"/>
 
 - 🔭 I’m currently working on **ML and DL Models**
@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **frontend Web development.**
 
-- 💬 Ask me about **HTML,CSS and JS**
+- 💬 Ask me about **ML,DL,HTML,CSS and JS**
 
 - 📫 How to reach me **arshidbanushaik@gmail.com**
 
